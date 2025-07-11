@@ -13,7 +13,7 @@ This GitHub organization is composed of the following main repositories:
 |----------------|-----------------------------------------------------------------------------|
 | [`Frontend`](https://github.com/CS-Nexus/Frontend)   | Web dashboard for admins/facilitators to monitor users, manage scenarios, and view analytics. |
 | [`Backend`](https://github.com/CS-Nexus/Backend)     | ASP.NET Core API (JWT Auth, OTP, Stripe payments, SignalR, EF Core, Swagger) powering all services. |
-| [`Mobile App`](https://github.com/CS-Nexus/Flutter)       | Flutter mobile app for users to track progress, access scenarios, use burn detection & chatbot. |
+| [`Mobile App`](https://github.com/CS-Nexus/Mobile)       | Flutter mobile app for users to track progress, access scenarios, use burn detection & chatbot. |
 | [`Game`](https://github.com/CS-Nexus/Unity)               | Unity-based VR emergency simulation game with scenarios like home fires, factory accidents, and brake failures. |
 | [`AI`](https://github.com/CS-Nexus/AI)               | Python + TensorFlow skin burn classification API (deployed with Flask + TFLite). |
 | [`3D Models`](https://github.com/CS-Nexus/Models)   | Blender-based 3D models used in the VR game, including environments and tools. |
