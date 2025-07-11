@@ -89,7 +89,7 @@ Supervised by:
 ## Documentation
 
 For full system documentation, refer to our thesis document:  
-NEXUS Virtual Reality Emergency Response Training Simulator (2024-2025)
+NEXUS Virtual Reality Emergency Response Training Simulator (2024-2025) [`View Document`](https://docs.google.com/document/d/15YzIrUXmQd7e1RX9zLtkyqSpPuvoD0HX07LT_y08vpA/edit?usp=sharing)
 
 ---
 
