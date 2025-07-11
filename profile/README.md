@@ -11,12 +11,12 @@ This GitHub organization is composed of the following main repositories:
 
 | Module         | Description                                                                 |
 |----------------|-----------------------------------------------------------------------------|
-| [`nexus-frontend`](./nexus-frontend)   | Web dashboard for admins/facilitators to monitor users, manage scenarios, and view analytics. |
-| [`nexus-backend`](./nexus-backend)     | ASP.NET Core API (JWT Auth, OTP, Stripe payments, SignalR, EF Core, Swagger) powering all services. |
-| [`nexus-mobile`](./nexus-mobile)       | Flutter mobile app for users to track progress, access scenarios, use burn detection & chatbot. |
-| [`nexus-vr`](./nexus-vr)               | Unity-based VR emergency simulation game with scenarios like home fires, factory accidents, and brake failures. |
-| [`nexus-ai`](./nexus-ai)               | Python + TensorFlow skin burn classification API (deployed with Flask + TFLite). |
-| [`nexus-3dmodels`](./nexus-3dmodels)   | Blender-based 3D models used in the VR game, including environments and tools. |
+| [`Frontend`](https://github.com/CS-Nexus/Frontend)   | Web dashboard for admins/facilitators to monitor users, manage scenarios, and view analytics. |
+| [`Backend`](https://github.com/CS-Nexus/Backend)     | ASP.NET Core API (JWT Auth, OTP, Stripe payments, SignalR, EF Core, Swagger) powering all services. |
+| [`Mobile App`](https://github.com/CS-Nexus/Flutter)       | Flutter mobile app for users to track progress, access scenarios, use burn detection & chatbot. |
+| [`Game`](https://github.com/CS-Nexus/Unity)               | Unity-based VR emergency simulation game with scenarios like home fires, factory accidents, and brake failures. |
+| [`AI`](https://github.com/CS-Nexus/AI)               | Python + TensorFlow skin burn classification API (deployed with Flask + TFLite). |
+| [`3D Models`](https://github.com/CS-Nexus/Models)   | Blender-based 3D models used in the VR game, including environments and tools. |
 
 ---
 
